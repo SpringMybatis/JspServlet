@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jspreport"
+  id="myeclipse.1432427319209"
+  context-root="/jspreport"
+  j2ee-spec="5.0"
+  archive="jspreport.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
